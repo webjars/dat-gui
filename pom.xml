@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>dat-gui</artifactId>
-    <version>0.5.0</version>
+    <version>0.5.0-SNAPSHOT</version>
     <name>dat-gui</name>
     <description>WebJar for dat-gui</description>
     <url>http://webjars.org</url>
@@ -25,9 +25,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/davidblancke/dat-gui-webjar</url>
-        <connection>scm:git:https://github.com/davidblancke/dat-gui-webjar.git</connection>
-        <developerConnection>scm:git:https://github.com/davidblancke/dat-gui-webjar.git</developerConnection>
+        <url>https://github.com/webjars/dat-gui</url>
+        <connection>scm:git:https://github.com/webjars/dat-gui.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/dat-gui.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
